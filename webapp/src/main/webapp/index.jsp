@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<h1> Hello, Welcome Venkat !!! </h1>
+<h2> You have successfully configured auto deployment using Jenkis to Tomcat :) </h2>
+
